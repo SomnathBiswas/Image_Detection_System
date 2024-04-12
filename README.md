@@ -13,7 +13,7 @@
   <p>In this project, we have developed an image classification model to detect the presence of St. George in a given image. We used the VGG16 model, which is a pre-trained convolutional neural network (CNN) architecture that has been successful in various image classification tasks. We fine-tuned the model by freezing the weights of the pre-trained layers and adding new hidden layers with 256 units and an output layer with two units at the end, one for each class (St. George and not St. George). We also added a Dropout layer to avoid overfitting.</p>
 </ul>
 
-<h3>Final Result</h3>
+<h2>Final Result</h2>
 <ul>
   <li><b>Accuracy</b></li>
 

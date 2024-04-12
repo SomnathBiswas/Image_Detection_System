@@ -14,5 +14,21 @@
 </ul>
 
 <h3>Final Result</h3>
-![Results](https://github.com/SomnathBiswas/Image_Detection_System/assets/108716703/5ec147ea-9fe2-4f56-a90a-32d6f3f2abad)
+<ul>
+  <li><b>Accuracy</b></li>
+
+   ![WhatsApp Image 2024-04-12 at 5 31 57 PM](https://github.com/SomnathBiswas/Image_Detection_System/assets/108716703/3ee28b36-54c7-42ad-86e4-fd5e6d5e12a7)
+
+
+  <li>Other Evaluations</li>
+
+  
+![WhatsApp Image 2024-04-12 at 5 13 11 PM](https://github.com/SomnathBiswas/Image_Detection_System/assets/108716703/ee904818-b6b5-43c8-b324-8ce50f1fe676)
+
+  <li><b>Outcome</b></li>
+
+  ![WhatsApp Image 2024-04-12 at 5 32 26 PM](https://github.com/SomnathBiswas/Image_Detection_System/assets/108716703/d0cc9a9e-2730-42fb-8065-a9eedc97613e)
+
+
+</ul>
 
